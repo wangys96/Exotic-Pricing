@@ -1,6 +1,6 @@
 QuantLib-Examples
 ===
-This repo store some examples and projects of QuantLib, including option pricing, Monte-Carlo simulation etc.  
+This repo store some applications of QuantLib.
 
 ### Projects
 + **AsianOption (C++)**   
